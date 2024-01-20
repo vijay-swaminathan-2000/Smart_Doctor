@@ -1,0 +1,11 @@
+langchain
+transformers
+torch
+openai
+boto3
+semantic_search
+pymysql
+schedule
+datetime
+InstructorEmbedding
+chromadb
